@@ -1,6 +1,7 @@
 # LoveRunning <br>
-A responsive website for a health group called "Love Running". The site's target users are anyone capable and interested in the benefits of social running groups. The goal of the site is to spread awareness of their club, and gain participants in their events. <br>
+This project is a responsive website for a health group called "Love Running". The site's target users are anyone capable and interested in the benefits of social running groups. The goal of the site is to spread awareness of their club, and gain participants in their events. <br>
 The site was built using solely HTML and CSS. <br>
+At present this live deployed website is being hosted on GitHub pages and can be viewed at this link: "https://sheenakennedy.github.io/LoveRunning/" .
 A small JS file is included only for form testing, and will be replaced. <br>
 
 Files include:
